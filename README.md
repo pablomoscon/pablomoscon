@@ -19,13 +19,8 @@ Mi perfil se caracteriza por la capacidad de aprender rápido, enfrentar desafí
 Si querés contactarme, ¡estaré encantado de charlar! 😊
 
 ## Contactate conmigo 
-[**mosconpablo@gmail.com**](mailto:mosconpablo@gmail.com)  
-[![Gmail](https://img.icons8.com/color/24/000000/gmail-new.png)](mailto:mosconpablo@gmail.com)  
-<br/>
-[**LinkedIn**](https://www.linkedin.com/in/pablo-mosc%C3%B3n-7990142b0/)  
-[![LinkedIn](https://img.icons8.com/color/24/000000/linkedin.png)](https://www.linkedin.com/in/pablo-mosc%C3%B3n-7990142b0/)
+[**mosconpablo@gmail.com**](mailto:mosconpablo@gmail.com) [![Gmail](https://img.icons8.com/color/24/000000/gmail-new.png)](mailto:mosconpablo@gmail.com)  
+[**LinkedIn**](https://www.linkedin.com/in/pablo-mosc%C3%B3n-7990142b0/) [![LinkedIn](https://img.icons8.com/color/24/000000/linkedin.png)](https://www.linkedin.com/in/pablo-mosc%C3%B3n-7990142b0/)
 
-[![LinkedIn](https://img.icons8.com/color/24/000000/linkedin.png)](https://www.linkedin.com/in/pablo-mosc%C3%B3n-7990142b0/)  
-[**LinkedIn**](https://www.linkedin.com/in/pablo-mosc%C3%B3n-7990142b0/)
 
 
