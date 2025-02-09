@@ -1,4 +1,4 @@
-# Hola, soy Pablo Moscon 👋
+# Hola 👋, soy Pablo Moscon 
 
 ## Perfil profesional 
 
