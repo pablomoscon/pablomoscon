@@ -19,7 +19,7 @@ Mi perfil se caracteriza por la capacidad de aprender rápido, enfrentar desafí
 Si querés contactarme, ¡estaré encantado de charlar! 😊
 
 ## Contactate conmigo 
-## Contacto 
-[![Gmail](https://upload.wikimedia.org/wikipedia/commons/a/a7/Google_Gmail_logo_2013.png)](mailto:mosconpablo@gmail.com)  
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png)](https://www.linkedin.com/in/pablo-mosc%C3%B3n-7990142b0/)
+[![Gmail](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:mosconpablo@gmail.com)  
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/pablo-mosc%C3%B3n-7990142b0/)
+
 
