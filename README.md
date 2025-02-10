@@ -13,10 +13,8 @@ Mi perfil se distingue por mi capacidad para adaptarme rápidamente a nuevos ent
 
 ## Tecnologías 
 
-## Tecnologías
-
 <div style="display: flex; gap: 15px; background-color: #333; padding: 10px; border-radius: 5px; align-items: center;">
-  <!-- FontAwesome Icons -->
+  <!-- Icons8 -->
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS logo" width="35" height="35">
   <img src="https://img.icons8.com/color/48/express.png" alt="Express logo" width="35" height="35">
   <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML logo" width="35" height="35">
