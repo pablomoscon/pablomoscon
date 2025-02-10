@@ -13,14 +13,10 @@ Mi perfil se distingue por mi capacidad para adaptarme rápidamente a nuevos ent
 
 ## Tecnologías 
 
-<img src="URL_DEL_ICONO_CSS" alt="CSS logo" width="30" height="30">
-<img src="URL_DEL_ICONO_EXPRESS" alt="Express logo" width="30" height="30">
-<img src="URL_DEL_ICONO_FIREBASE" alt="Firebase logo" width="30" height="30">
-<img src="URL_DEL_ICONO_HTML" alt="HTML logo" width="30" height="30">
-<img src="URL_DEL_ICONO_JS" alt="JS logo" width="30" height="30">
-<img src="URL_DEL_ICONO_MONGO" alt="Mongo logo" width="30" height="30">
-<img src="URL_DEL_ICONO_MYSQL" alt="MySQL logo" width="30" height="30">
-<img src="URL_DEL_ICONO_REACT" alt="React logo" width="30" height="30">
+![Node logo](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/node-dot-js.svg)
+![Nest logo](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/nestjs.svg)
+![Docker logo](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg)
+![Postgres logo](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/postgresql.svg)
 
 ## Contactate conmigo 
 
