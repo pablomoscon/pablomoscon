@@ -24,7 +24,8 @@ Mi perfil se distingue por mi capacidad para adaptarme rápidamente a nuevos ent
   <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node logo" width="35" height="35">
   <img src="https://img.icons8.com/color/48/nestjs.png" alt="Nest logo" width="35" height="35">
   <img src="https://img.icons8.com/color/48/docker.png" alt="Docker logo" width="35" height="35">
-  <img src="https://img.icons8.com/color/48/postgresql.png" alt="Postgres logo" width="35" height="35">
+  <img src="https://img.icons8.com/color/48/postgreesql.png" alt="Postgres logo" width="35" height="35">
+
 </div>
 
 
