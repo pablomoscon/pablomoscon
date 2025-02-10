@@ -8,17 +8,22 @@ Realicé parte de mi doctorado en Alemania con becas de investigación, lo que m
 
 En 2023, completé una diplomatura en la UTN y a comienzos de 2025 finalicé la carrera de Web Full Stack Developer en Henry 🚀. Gracias a esta formación, adquirí experiencia en tecnologías modernas y metodologías ágiles, aplicando mis habilidades en el mundo del desarrollo.
 
-Mi perfil se caracteriza por la capacidad de aprender rápido, enfrentar desafíos con pensamiento estructurado y aplicar mi formación previa en el terreno académico a problemas tecnológicos para abordarlos de forma ordenada y original, y para crear soluciones innovadoras.
+Mi perfil se distingue por mi capacidad para adaptarme rápidamente a nuevos entornos, una actitud proactiva frente a desafíos y un enfoque estructurado para enfrentarlos. Utilizo mi formación académica para abordar problemas tecnológicos de manera organizada y creativa, generando soluciones innovadoras y eficaces.
 
-## ¿Qué puedo aportar?
-💡 Pensamiento crítico y analítico aplicado al desarrollo de software.  
-🛠️ Capacidad de resolución de problemas y optimización de procesos.  
-📚 Pasión por el aprendizaje continuo y la mejora constante.  
-🤝 Habilidades comunicativas y disposición para el trabajo en equipo.
 
-Si querés contactarme, ¡estaré encantado de charlar! 😊
+## Tecnologías 
+
+<img src="URL_DEL_ICONO_CSS" alt="CSS logo" width="30" height="30">
+<img src="URL_DEL_ICONO_EXPRESS" alt="Express logo" width="30" height="30">
+<img src="URL_DEL_ICONO_FIREBASE" alt="Firebase logo" width="30" height="30">
+<img src="URL_DEL_ICONO_HTML" alt="HTML logo" width="30" height="30">
+<img src="URL_DEL_ICONO_JS" alt="JS logo" width="30" height="30">
+<img src="URL_DEL_ICONO_MONGO" alt="Mongo logo" width="30" height="30">
+<img src="URL_DEL_ICONO_MYSQL" alt="MySQL logo" width="30" height="30">
+<img src="URL_DEL_ICONO_REACT" alt="React logo" width="30" height="30">
 
 ## Contactate conmigo 
+
 [![Gmail](https://img.icons8.com/color/32/000000/gmail-new.png)](mailto:mosconpablo@gmail.com)  [**mosconpablo@gmail.com**](mailto:mosconpablo@gmail.com)  
 [![LinkedIn](https://img.icons8.com/color/32/000000/linkedin.png)](https://www.linkedin.com/in/pablo-mosc%C3%B3n-7990142b0/)  [**LinkedIn**](https://www.linkedin.com/in/pablo-mosc%C3%B3n-7990142b0/)
 
