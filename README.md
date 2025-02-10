@@ -13,21 +13,18 @@ Mi perfil se distingue por mi capacidad para adaptarme rápidamente a nuevos ent
 
 ## Tecnologías 
 
-<div style="display: flex; gap: 15px; background-color: #333; padding: 10px; border-radius: 5px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" alt="CSS logo" width="35" height="35" style="filter: invert(1);">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/express.svg" alt="Express logo" width="35" height="35" style="filter: invert(1);">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" alt="HTML logo" width="35" height="35" style="filter: invert(1);">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" alt="JS logo" width="35" height="35" style="filter: invert(1);">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mongodb.svg" alt="Mongo logo" width="35" height="35" style="filter: invert(1);">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" alt="MySQL logo" width="35" height="35" style="filter: invert(1);">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/node-dot-js.svg" alt="Node logo" width="35" height="35" style="filter: invert(1);">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/nestjs.svg" alt="Nest logo" width="35" height="35" style="filter: invert(1);">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg" alt="Docker logo" width="35" height="35" style="filter: invert(1);">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/postgresql.svg" alt="Postgres logo" width="35" height="35" style="filter: invert(1);">
+<div style="display: flex; gap: 15px; background-color: #333; padding: 10px; border-radius: 5px; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" alt="CSS logo" width="35" height="35">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/express.svg" alt="Express logo" width="35" height="35">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" alt="HTML logo" width="35" height="35">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" alt="JS logo" width="35" height="35">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mongodb.svg" alt="Mongo logo" width="35" height="35">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" alt="MySQL logo" width="35" height="35">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/node-dot-js.svg" alt="Node logo" width="35" height="35">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/nestjs.svg" alt="Nest logo" width="35" height="35">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg" alt="Docker logo" width="35" height="35">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/postgresql.svg" alt="Postgres logo" width="35" height="35">
 </div>
-
-
-
 
 
 ## Contactate conmigo 
