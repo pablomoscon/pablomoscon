@@ -4,7 +4,7 @@
 
 Soy un profesional con una sólida trayectoria en la investigación y la docencia, campos en los que he desarrollado un fuerte pensamiento crítico, una metodología precisa y capacidad de resolución de problemas.
 
-Realicé parte de mi doctorado en Alemania con becas de investigación, lo que me permitió profundizar en el análisis y estudio riguroso. En 2019, comencé a estudiar programación y, desde entonces, he combinado mi formación académica con el desarrollo de software.
+Realicé parte de mi doctorado en Alemania con becas de investigación, lo que me permitió profundizar en el análisis y estudio riguroso. En 2019, comencé a estudiar programación y, desde entonces, combiné mi formación académica con el desarrollo de software.
 
 En 2023, completé una diplomatura en la UTN y a comienzos de 2025 finalicé la carrera de Web Full Stack Developer en Henry 🚀. Gracias a esta formación, adquirí experiencia en tecnologías modernas y metodologías ágiles, aplicando mis habilidades en el mundo del desarrollo.
 
