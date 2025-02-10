@@ -11,7 +11,7 @@ En 2023, completé una diplomatura en la UTN y a comienzos de 2025 finalicé la 
 Mi perfil se distingue por mi capacidad para adaptarme rápidamente a nuevos entornos, una actitud proactiva frente a desafíos y un enfoque estructurado para enfrentarlos. Utilizo mi formación académica para abordar problemas tecnológicos de manera organizada y creativa, generando soluciones innovadoras y eficaces.
 
 
-## Tecnologías 
+## Tecnologías
 
 <div style="display: flex; gap: 15px; background-color: #333; padding: 10px; border-radius: 5px; align-items: center;">
   <!-- Icons8 -->
@@ -26,6 +26,7 @@ Mi perfil se distingue por mi capacidad para adaptarme rápidamente a nuevos ent
   <img src="https://img.icons8.com/color/48/docker.png" alt="Docker logo" width="35" height="35">
   <img src="https://img.icons8.com/color/48/postgresql.png" alt="Postgres logo" width="35" height="35">
 </div>
+
 
 
 
