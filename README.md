@@ -16,7 +16,7 @@ Mi perfil se distingue por mi capacidad para adaptarme rápidamente a nuevos ent
 <div style="display: flex; gap: 15px; background-color: #333; padding: 10px; border-radius: 5px; align-items: center;">
   <!-- Icons8 -->
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS logo" width="35" height="35">
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/express.svg" alt="Express logo" width="35" height="35">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/express.svg" alt="Express logo" width="35" height="35">
   <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML logo" width="35" height="35">
   <img src="https://img.icons8.com/color/48/javascript.png" alt="JS logo" width="35" height="35">
   <img src="https://img.icons8.com/color/48/mongodb.png" alt="Mongo logo" width="35" height="35">
