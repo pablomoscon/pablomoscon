@@ -31,6 +31,8 @@ Mi perfil se distingue por mi capacidad para adaptarme rápidamente a nuevos ent
 
 ## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=dark&cache_seconds=1800)
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=dark&cache_seconds=1800" alt="Pablo Moscon's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=dark&cache_seconds=1800" alt="Top Langs" />
@@ -41,6 +43,7 @@ Mi perfil se distingue por mi capacidad para adaptarme rápidamente a nuevos ent
 
 [![Gmail](https://img.icons8.com/color/32/000000/gmail-new.png)](mailto:mosconpablo@gmail.com)  [**mosconpablo@gmail.com**](mailto:mosconpablo@gmail.com)  
 [![LinkedIn](https://img.icons8.com/color/32/000000/linkedin.png)](https://www.linkedin.com/in/pablo-mosc%C3%B3n-7990142b0/)  [**LinkedIn**](https://www.linkedin.com/in/pablo-mosc%C3%B3n-7990142b0/)
+
 
 
 
