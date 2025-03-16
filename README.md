@@ -29,7 +29,9 @@ Mi perfil se distingue por mi capacidad para adaptarme rápidamente a nuevos ent
 </div>
 
 
+## 📊 GitHub Stats
 
+![Pablo Moscon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=dark)
 
 ## Contactate conmigo 
 
