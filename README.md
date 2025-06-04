@@ -33,7 +33,7 @@ Mi perfil se distingue por mi capacidad para adaptarme rápidamente a nuevos ent
 ## Contactate conmigo 
 
 [![Gmail](https://img.icons8.com/color/32/000000/gmail-new.png)](mailto:mosconpablo@gmail.com)  [**mosconpablo@gmail.com**](mailto:mosconpablo@gmail.com)  
-[![LinkedIn](https://img.icons8.com/color/32/000000/linkedin.png)](https://www.linkedin.com/in/pablomoscon)  [**LinkedIn**](https://www.linkedin.com/in/pablo-mosc%C3%B3n-7990142b0/)
+[![LinkedIn](https://img.icons8.com/color/32/000000/linkedin.png)](https://www.linkedin.com/in/pablomoscon/)  [**LinkedIn**](https://www.linkedin.com/in/pablomoscon/)
 
 
 
